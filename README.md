@@ -1,5 +1,5 @@
 
-## Ansible
+## Ansible - Install nginx using role
 
 ### Install roles
 `ansible-galaxy install -r requirements.yml`
